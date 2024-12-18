@@ -1,0 +1,1 @@
+import{n as o,a as c}from"../../../vendor_emotion-CZWcTM8j.js";import{S as s}from"./BaseScreen-Bl68sDI-.js";const t=o(s)``;function i(e){const{children:r,...n}=e;return c(t,{...n,children:r})}export{i as S};

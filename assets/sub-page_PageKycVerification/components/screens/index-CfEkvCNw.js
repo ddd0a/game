@@ -1,1 +1,0 @@
-import"./BasicKycReminder-KOK7Duk4.js";import"./CompleteKycReminder-BH41iNyb.js";import"./RegistrationSuccessful-D3LX3QBo.js";import"./CompleteVerifyForm-DD6N3gSV.js";import"./BasicVerifyForm-BbD-zNtk.js";import"./SubmitSuccessfully-Bzs1UEoz.js";import"./BaseScreen-BxYAaLO0.js";import"./OcrProcess-DchSsSql.js";import"./KycApproved-D9YN6HGb.js";

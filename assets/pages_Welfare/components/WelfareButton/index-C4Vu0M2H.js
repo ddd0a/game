@@ -1,0 +1,1 @@
+import{a as t}from"../../../vendor_emotion-CZWcTM8j.js";import{r as e}from"../../../vendor_react-Bz04f6Pj.js";import{W as n,B as a}from"./style-CrsnaqPu.js";const s=({title:o="Deposit",...r})=>t(a,{children:t(n,{...r,children:o})}),c=e.memo(s);export{c as W};

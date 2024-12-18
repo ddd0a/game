@@ -1,0 +1,1 @@
+import{j as a,a as r,F as s}from"../../vendor_emotion-CZWcTM8j.js";import{M as e}from"../components/MoneyCard/index-DWJFKb4n.js";import{D as t}from"../components/DetailsList/index-_bX-0-dE.js";function n(){return a(s,{children:[r(e,{}),r(t,{})]})}export{n as W};

@@ -1,0 +1,1 @@
+import{PATHS as n}from"../pagePaths-6FEed3-5.js";import{a as o,u as s}from"../vendor_react-Bz04f6Pj.js";const r=o(n.LOGIN_BY_PHONE_OTP);function m(){const[t,e]=s(r);return{rencent:t,setRencent:e}}export{m as u};
