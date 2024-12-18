@@ -1,0 +1,1 @@
+import{j as s,a as r,F as a}from"../../vendor_emotion-nEVkPYdj.js";import{M as o}from"../components/MoneyCard/index-C5PKbq73.js";import{L as e}from"../components/LevelList/index-DFdMYSkd.js";function i(){return s(a,{children:[r(o,{}),r(e,{})]})}export{i as W};

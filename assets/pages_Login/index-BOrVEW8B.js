@@ -1,0 +1,1 @@
+import{a as t}from"../vendor_emotion-nEVkPYdj.js";import{u as r}from"./rencent-VpSkOHvm.js";import{N as o}from"../vendor_react-DLFB9-kf.js";const i=()=>{const{rencent:e}=r();return t(o,{to:e,replace:!0,state:{ignore:!0}})};export{i as I};

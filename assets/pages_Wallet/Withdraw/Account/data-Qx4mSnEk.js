@@ -1,0 +1,1 @@
+const r={gcash:"/logo-gcash.svg",maya:"/logo-maya.svg",grab:"/logo-grab.svg"};function n(g,a){return r[g]?r[g]:a||"/logo-bank.svg"}const o={gcash:"#297BFA",maya:"#30F29E",grab:"#00B14F",bank:"#1CADFF"};function s(g){return g in o?o[g]:o.bank}export{s as a,n as g};

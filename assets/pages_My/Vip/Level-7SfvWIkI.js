@@ -1,0 +1,1 @@
+import{a as o,j as s}from"../../vendor_emotion-nEVkPYdj.js";const l=({style:e,className:t,value:n})=>o("svg",{style:e,className:t,viewBox:"0 0 870 870",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:s("text",{x:"435",y:"312",fontSize:"26",fontWeight:"500",fill:"#FF0000",textAnchor:"middle",children:["V",n]})});export{l as L};

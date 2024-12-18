@@ -1,0 +1,1 @@
+import{n as t,a as o}from"../vendor_emotion-nEVkPYdj.js";import{E as n}from"./layouts/common-D_ZVEozo.js";import{G as r}from"./components/GameSections/index-CB6vqwI0.js";const e=t(n)``;function s(){return o(e,{children:o(r,{})})}export{s as H};
